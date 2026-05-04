@@ -1,0 +1,9 @@
+Timestamp,Task_ID,Activity,Status,Details
+2026-05-01 09:00,ORD-101,New Order Received,PENDING,50 people Wedding Lunch on May 5th
+2026-05-02 14:00,ORD-101,Ingredient Sourcing,COMPLETE,Meat and veggies bought from Main Market
+2026-05-03 10:00,ORD-101,Client Confirmation,COMPLETE,Confirmed with Mrs. Smith. (Note: Only 24h before event)
+2026-05-04 11:00,ORD-102,New Order Received,PENDING,20 people Corporate Breakfast on May 6th
+2026-05-04 15:00,ORD-102,Ingredient Sourcing,COMPLETE,Bought eggs and bread
+2026-05-05 11:00,ORD-101,Food Preparation,COMPLETE,Cold storage at 6C
+2026-05-05 12:00,ORD-101,Departure to Venue,COMPLETE,Van left kitchen
+2026-05-05 12:45,ORD-101,Arrival at Venue,COMPLETE,Arrived (Note: Service starts at 1:30 PM)
