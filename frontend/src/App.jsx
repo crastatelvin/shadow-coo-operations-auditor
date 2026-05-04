@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Shield, AlertTriangle, TrendingUp, BarChart3, CheckCircle2, ChevronRight, Activity } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import ReactMarkdown from 'react-markdown';
 
 const App = () => {
   const [auditData, setAuditData] = useState(null);
@@ -105,8 +106,8 @@ const App = () => {
                   <BarChart3 className="text-indigo-400" size={20} />
                   Executive Intelligence Report
                 </h3>
-                <div className="prose prose-invert max-w-none whitespace-pre-wrap text-slate-300 leading-relaxed">
-                  {auditData.report}
+                <div className="prose prose-invert max-w-none text-slate-300 leading-relaxed prose-headings:text-white prose-strong:text-indigo-400 prose-headings:mb-4">
+                  <ReactMarkdown>{auditData.report}</ReactMarkdown>
                 </div>
               </motion.div>
 
