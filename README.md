@@ -210,7 +210,7 @@ REPORT_PATH=../data/reports
 This project is licensed under the MIT License. See [LICENSE](./LICENSE).
 
 <div align="center">
-Built by Telvin Crasta · Operational Intelligence · Production-ready
+Built by Crasta Telvin· Operational Intelligence · Production-ready
 <br/>
 ⭐ If SHADOW helped you optimize your business, star the repo.
 </div>
