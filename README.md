@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/images/shadow-logo.png" alt="SHADOW logo" width="180"/>
+
 # 🕵️‍♂️ SHADOW
 
 ### Autonomous Operational Auditor — Business Intelligence & SOP Compliance with Local AI
